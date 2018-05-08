@@ -1,5 +1,6 @@
 # elementary-walkers
-one or many walkers can interact and take various hyper-parameter values to explore a simple landscape  
+
+This code is written in 2016 when I was working for my PhD project and also during my internship at FAIR. It is meant to be part of the project on the explorations of the energy landscapes of loss surfaces in various ways.
 
 ## Intro 
 
@@ -11,7 +12,7 @@ Required packages:
 - [fb.python](https://github.com/facebookarchive/fblualib/blob/master/fblualib/python/README.md)
 - pandas and numpy for python 2.7
   
-*NOTE:* Beware that this code has tricky dependencies, I encountered some issues setting `fb.python` up on MacOs.   
+*NOTE:* Beware that this code has tricky dependencies, I encountered some issues setting `fb.python` up on MacOs. As of 2017, life is much easier with [PyTorch](https://pytorch.org).
 
 ## References
   
